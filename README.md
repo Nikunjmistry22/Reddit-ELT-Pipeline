@@ -40,7 +40,7 @@ Before running this project, ensure you have the following:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Nikunjmistry22/Reddit-ELT-Pipeline.git
-   cd reddit_etl
+   cd Reddit-ELT-Pipeline
    ```
 2. **Install Dependencies:**:
    ```bash
