@@ -14,7 +14,7 @@ This project is an ETL (Extract, Transform, Load) pipeline designed to extract d
 2. **Python Script**: Extracts data from the Reddit API and uploads it to S3.
 3. **Amazon S3**: Serves as the raw data storage before loading into Snowflake.
 4. **Apache Airflow**: Orchestrates the ETL pipeline, scheduling and managing the extraction tasks.
-5. **Snowflake**: (Optional) Data warehousing solution where the transformed data can be loaded for analytics.
+5. **Snowflake**: Data warehousing solution where the transformed data can be loaded for analytics.
 
 ## Prerequisites
 
