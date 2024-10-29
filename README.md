@@ -68,7 +68,7 @@ Before running this project, ensure you have the following:
      </li>
    </ul>
 
-<hr>
-## DB MODEL ON SNOWFLAKE
-![ST](https://github.com/user-attachments/assets/ffbd4f0d-7308-4263-9592-5f2aac63212f)
+### DB MODEL ON SNOWFLAKE
+![ST](https://github.com/user-attachments/assets/7c8e5bd3-cdb9-4650-bcf3-38b6604e45ac)
+
 
